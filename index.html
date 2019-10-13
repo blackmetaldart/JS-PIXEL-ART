@@ -2,18 +2,27 @@
 <html>
 <head>
   <meta charset="utf-8">
+
+  <!--THIS IS THE LINK TO A CSS FILE-->
   <link rel="stylesheet" href="style.css">
   <title>PIXEL-ART</title>
 </head>
 <body>
-  <h1>PIXEL-ART</h1>
-  <div class="controls">
-    <form id="form">
-      <input type="text" id="color-field"></input>
-      <button id="set-color">Brush Color</button>
-    </form>
+
+    <h1>PIXEL-ART</h1>
+    <div class="controls">
+
+      <!--THIS FORM TAKES THE INPPUT FOR A BRUSH COLOR AND CHANGES THE BRUSH COLOR UPON VALID SUBMISSION-->
+      <form id="form">
+        <input type="text" id="color-field"></input>
+        <button id="set-color">Brush Color</button>
+      </form>
+
+    <!--THIS DIV WILL MAKE THE SQUARE THAT SHOWS THE CURRENT BRUSH COLOR-->
     <div class="brush"></div>
   </div>
+
+  <!--THIS IS THE LINK TO THE JS FILE-->
   <script src="script.js"></script>
 </body>
 </html>
