@@ -1,5 +1,7 @@
+/*THIS IS THE IMPORT FOR THE FONT*/
 @import url(http://fonts.googleapis.com/css?family=Monoton);
 
+/*THIS IS THE BRUSH BOX STYLE*/
 .brush {
   width: 100px;
   height: 100px;
@@ -7,6 +9,7 @@
   margin: 15px auto;
 }
 
+/*THIS REPRESENTS ONE BOX FOR THE PIXEL CANVAS*/
 .square {
   float: left;
   width: 10px;
@@ -15,16 +18,19 @@
   margin: 0;
 }
 
+/*HEADER TITLE*/
 h1 {
   font-family: Monoton;
   font-size: 48px;
   text-align: center;
 }
 
+/*THE BRUSH CHANGE CONTROL*/
 .controls {
   text-align: center;
 }
 
+/*THE BODY OF THE APPLICATION*/
 body {
   background-image: url('ps_neutral.png');
 }
