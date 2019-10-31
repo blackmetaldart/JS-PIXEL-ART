@@ -1,4 +1,4 @@
-# PIXEL-ART
+# PIXEL-PAINTING
 An application that utilizes HTML, CSS, and JavaScript to allow the user to make pixelated images.
 
 ### GETTING STARTED
