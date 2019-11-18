@@ -1,5 +1,5 @@
 # PIXEL-PAINTING
-### An application that utilizes HTML, CSS, and JavaScript to allow the user to make pixelated images.
+### AN APPLICATION THAT UTILIZES HTML, CSS, AND JAASCRIPT TO ALLOW THE USER TO MAKE PIXELATED IMAGES
 
 ### GETTING STARTED
 * Clone the project into a folder on your computer and open the HTML file in a web browser. 
