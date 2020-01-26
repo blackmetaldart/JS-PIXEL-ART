@@ -1,12 +1,13 @@
 /*THIS IS THE IMPORT FOR THE FONT*/
-@import url(http://fonts.googleapis.com/css?family=Monoton);
+@import url(https://fonts.googleapis.com/css?family=Crafty+Girls);
 
-/*THIS IS THE BRUSH BOX STYLE*/
+/*THIS STYLES THE BRUSH BOX*/
 .brush {
   width: 100px;
   height: 100px;
-  background: #1B4370;
+  background: #000000;
   margin: 15px auto;
+
 }
 
 /*THIS REPRESENTS ONE BOX FOR THE PIXEL CANVAS*/
@@ -20,7 +21,7 @@
 
 /*HEADER TITLE*/
 h1 {
-  font-family: Monoton;
+  font-family: 'Crafty Girls', cursive;
   font-size: 48px;
   text-align: center;
 }
