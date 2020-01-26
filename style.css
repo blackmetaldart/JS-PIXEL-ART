@@ -3,10 +3,12 @@
 
 /*THIS STYLES THE BRUSH BOX*/
 .brush {
-  width: 100px;
-  height: 100px;
-  background: #000000;
-  margin: 15px auto;
+  width : 100px;
+  height : 100px;
+  background : #000000;
+  margin : 15px auto;
+  border-radius : 3px;
+  border : .7px solid black; 
 
 }
 
