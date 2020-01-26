@@ -32,5 +32,5 @@ h1 {
 
 /*THE BODY OF THE APPLICATION*/
 body {
-  background-image: url('ps_neutral.png');
+  background-image: url('./image/ps_neutral.png');
 }
