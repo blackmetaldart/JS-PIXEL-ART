@@ -9,6 +9,7 @@
 ### TECHNOLOGIES USED
 * [HTML](https://html.com/) - The standard language for web browser documents
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - A stylesheet language for describing the presentation of HTML/[XML](https://www.w3schools.com/xml/) documents
+* [JAVASCRIPT](https://www.javascript.com/) - A programming language for writing interactive web pages
 * [ATOM](https://atom.io) - The cool text editor used to write the files
 
 ### ACKNOWLEDGEMENTS
