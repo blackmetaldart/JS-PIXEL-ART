@@ -1,6 +1,5 @@
 # PIXEL ART
-
-### A CLIENT-SIDE APPLICATION THAT USES HTML, CSS, AND JAVASCRIPT TO MAKE IMAGES.
+> A CLIENT-SIDE APPLICATION THAT USES HTML, CSS, AND JAVASCRIPT TO MAKE IMAGES.
 
 ### GETTING STARTED
 * Clone the project into a folder on your computer and open the HTML file in a web browser. 
